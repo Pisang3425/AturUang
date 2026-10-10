@@ -1,0 +1,4 @@
+project_id = "aturuang"
+
+[functions.financial-insight]
+verify_jwt = true
